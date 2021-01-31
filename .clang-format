@@ -1,0 +1,8 @@
+﻿---
+BasedOnStyle: WebKit
+IndentWidth: '4'
+Standard: Cpp11
+TabWidth: '4'
+UseTab: Never
+
+...
